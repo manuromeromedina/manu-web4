@@ -22,7 +22,7 @@ body, html {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  filter: blur(15px); /* Efecto de desenfoque en el video */
+  filter: blur(40px); /* Efecto de desenfoque en el video */
 }
 
 /* Estilos para el contenido */
